@@ -1,6 +1,6 @@
 # Organização de Estruturas de Arquivos
 
-Bem-vindo ao repositório dos algoritmos desenvolvidos durante a disciplina de Organização de Estruturas de Arquivos (OEA). Este repositório contém uma coleção de algoritmos implementados em C como parte das atividades e projetos do curso.
+Bem-vindo ao repositório dos algoritmos desenvolvidos durante a disciplina de Organização de Estruturas de Arquivos. Este repositório contém uma coleção de algoritmos implementados em C como parte das atividades e projetos do curso.
 
 ## Índice
 
@@ -13,7 +13,7 @@ Bem-vindo ao repositório dos algoritmos desenvolvidos durante a disciplina de O
 
 ## Descrição
 
-Este repositório contém uma série de algoritmos que foram desenvolvidos para a disciplina OEA. A disciplina foca em ensinar os fundamentos da organização e manipulação de estruturas de arquivos, além da criação de algoritmos eficientes para lidar com dados armazenados em arquivos.
+Este repositório contém uma série de algoritmos que foram desenvolvidos para a disciplina de Arquivos. A disciplina foca em ensinar os fundamentos da organização e manipulação de estruturas de arquivos, além da criação de algoritmos eficientes para lidar com dados armazenados em arquivos.
 
 ## Estrutura do Repositório
 
@@ -74,7 +74,3 @@ Para instalar um compilador C no seu sistema, siga as instruções específicas 
 sudo apt-get update
 sudo apt-get install build-essential
 ```
-
----
-
-Sinta-se à vontade para adaptar este README conforme necessário para melhor se adequar ao seu projeto e às suas preferências.
